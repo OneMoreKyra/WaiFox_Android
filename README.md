@@ -1,7 +1,7 @@
 # <p align="center"><img src="https://raw.githubusercontent.com/OneMoreKyra/WaiFox_Android/main/Icono.ico" width="120" height="120" style="border-radius: 24px;"><br><b>WaiFox</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/v/release/OneMoreKyra/WaiFox_Android?style=for-the-badge&color=FF0000&label=VERSIÓN" alt="Versión">
+  <img src="https://img.shields.io/github/v/tag/OneMoreKyra/WaiFox_Android?style=for-the-badge&color=FF0000&label=VERSIÓN" alt="Versión">
   <img src="https://img.shields.io/github/downloads/OneMoreKyra/WaiFox_Android/total?style=for-the-badge&color=3EA6FF&label=DESCARGAS" alt="Descargas">
   <img src="https://img.shields.io/github/stars/OneMoreKyra/WaiFox_Android?style=for-the-badge&color=yellow&label=ESTRELLAS" alt="Estrellas">
 </p>
