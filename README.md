@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://www.image2url.com/r2/default/images/1778874911993-73f74e70-9601-4743-9554-39c1424a6eef.ico" width="120" height="120" style="border-radius: 24px;"><br><b>WaiFox</b></p>
+<p align="center"><img src="https://www.image2url.com/r2/default/images/1778874911993-73f74e70-9601-4743-9554-39c1424a6eef.ico" width="120" height="120" style="border-radius: 24px;"><br><b>WaiFox</b></p>
 
 <p align="center">
   <img src="https://img.shields.io/github/v/release/OneMoreKyra/WaiFox_Android?style=for-the-badge&color=FF0000&label=VERSIÓN" alt="Versión">
